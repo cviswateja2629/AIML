@@ -1,1 +1,1 @@
-This is a readonly file
+This is a personal repository where I worked on different problem statements using AI and ML technologies with various frameworks like Tensor Flow, PyTorch and various ML algorithms like random forest, decision trees, K means and neural networks etc.
